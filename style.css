@@ -41,8 +41,9 @@ h2{
    width: 110px;
 }
 #imglink{
-   color: rgb(255, 230, 0);
+   color: rgb(31, 138, 246);
    font-size: 20px;
+   text-decoration: none;
 }
 .img{
     height: 75px;
